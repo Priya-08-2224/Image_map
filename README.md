@@ -206,6 +206,6 @@ ph:8838512605/email:zanacosmetics@gmail.com
 ![alt text](<Screenshot (31).png>)
 ![alt text](<Screenshot (34).png>)
 ![alt text](<Screenshot (36).png>)
-![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (33).png>)
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
